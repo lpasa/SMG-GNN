@@ -1,7 +1,7 @@
 import os
 import sys
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '../../../'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '../../'))
 import torch
 from torch.nn import Softmax, ReLU
 from dataReader.dataReader import DGLDatasetReader
