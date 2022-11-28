@@ -9,11 +9,18 @@ Paper: https://ieeexplore.ieee.org/abstract/document/9660046
 If you find this code useful, please cite the following:
 
 >@INPROCEEDINGS{Pasa2021SMGGNN,
+>
 >author={Pasa, Luca and Navarin, Nicolo and Sperduti, Alessandro}, 
+>
 >booktitle={2021 IEEE Symposium Series on Computational Intelligence (SSCI)}, 
+>
 >title={Simple Multi-resolution Gated GNN}, 
+>
 >year={2021},
+>
 >pages={01-07},
+>
 >doi={10.1109/SSCI50451.2021.9660046}
+>
 >}
 
